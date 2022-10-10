@@ -1,5 +1,4 @@
 # Dashboards-Alura-Class
 
-Here you can find all Power BI Dashboards that I've created with Alura class.
+Here you can find all Power BI Dashboards that I've created with Alura classes.
 
-The first one is regarding to 
